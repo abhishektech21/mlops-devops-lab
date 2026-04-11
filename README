@@ -1,1 +1,1 @@
-echo "# MLOps DevOps Lab" > README.md
+echo "# MLOps DevOps Lab\nSimple Python project for lab submission." > README.md
